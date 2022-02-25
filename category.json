@@ -6,8 +6,8 @@
         {
           "name": "美团红包(jj)",
           "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01bXVNGG2C4PZWpj9Jk_!!913168420.png",
-          "url": "",
-          "type": "api://meituanwaimai"
+          "url": "https://www.baidu.com",
+          "type": "url://baidu"
         },
         {
           "name": "饿了么红包",
